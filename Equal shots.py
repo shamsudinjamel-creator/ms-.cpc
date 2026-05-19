@@ -1,30 +1,3 @@
-Kattis logo
-Kattis
-
-Problems
-Contests
-Challenge
-Ranklists
-Jobs (5)
-Languages
-Info
-Help
-Kattis Cat
-Search Kattis
-Submission 19723588
-Support Kattis
-Shamsudin Jamel
-Submission 19723588
-Edit and resubmit
-Date	Problem	Judgement	Runtime	Language	Test cases
-21:49:53	Equal Shots	
-Accepted
-0.04 s	Python 3	
-28/28
-Files submitted
-Mainfile: equalshots.py
-equalshots.py
- Download equalshots.py
 import sys
 
 def main():
@@ -68,5 +41,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-Contact System Status Terms of Service Privacy Policy
